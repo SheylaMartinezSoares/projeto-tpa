@@ -1,2 +1,2 @@
-# projeto-tpa
-exemplos praticos de algoritimos usando portugol - com portugol.dev
+# Técnicas de progamação de algoritimos - ETEC 2024
+exemplos práticos de algoritimos usando portugol
